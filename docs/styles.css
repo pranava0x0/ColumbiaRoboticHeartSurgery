@@ -99,6 +99,15 @@ strong { font-weight: 600; }
 }
 .skip-link:focus { top: 8px; }
 
+/* ---------- demo banner ---------- */
+
+.demo-banner {
+  margin: 0; padding: 8px 16px; text-align: center;
+  font-size: 13px; font-weight: 600;
+  background: var(--accent-soft); color: var(--accent);
+  border-bottom: 1px solid var(--border);
+}
+
 /* ---------- masthead ---------- */
 
 .masthead {
@@ -369,6 +378,6 @@ footer p { margin: 0 0 6px; }
 }
 
 @media print {
-  .masthead, #tabs, .skip-link { display: none; }
+  .masthead, #tabs, .skip-link, .demo-banner { display: none; }
   .js section[hidden] { display: block !important; }
 }
