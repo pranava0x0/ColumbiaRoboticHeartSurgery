@@ -1,0 +1,12 @@
+{
+  "allow": [
+    {
+      "substring": "href=\"https://fonts.g",
+      "reason": "The brief asked for columbiasurgery.org's own type, which is Libre Franklin (self-hosted there, not available as a system font). Loaded with display=swap, three weights only, preconnect hints, and a Franklin Gothic/Helvetica fallback stack so text paints before the font arrives. Recorded in site/design.md."
+    },
+    {
+      "substring": "rel=\"icon\" href=\"data:image/svg+xml",
+      "reason": "The favicon is an inline SVG data URI and cannot read CSS custom properties; its two literal colours are the Columbia blue token value and white, the same pair the masthead renders from tokens."
+    }
+  ]
+}
