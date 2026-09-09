@@ -24,7 +24,7 @@ CorPath's headline differentiator is **sub-millimeter measurement with 1mm incre
 
 ### Radiation exposure reduction — the data
 This is the platform's most consistently cited clinical benefit, because interventional cardiologists accumulate career-long radiation exposure standing tableside:
-- **PRECISE pivotal trial** (CorPath 200): operators working from the shielded cockpit saw a **median 92.5% reduction** in radiation exposure compared to published tableside benchmarks.
+- **PRECISE registration trial** (CorPath 200): operators working from the shielded cockpit saw a **median 92.5% reduction** in radiation exposure compared to published tableside benchmarks.
 - **RAPID-II study** (robotic peripheral intervention with drug-coated balloons): mean operator radiation dose reduced by **96.9% ± 5.0%** versus the tableside monitor position.
 - Across PRECISE, PRECISION, CORA-PCI and related studies, the consistent finding is **~90–97% reduction in operator radiation exposure**, with **no increase in patient radiation dose or procedure/fluoroscopy time**.
 
@@ -40,12 +40,12 @@ Corindus achieved the **world's first-in-human telerobotic (remote) PCI**, perfo
 ## Use-Cases and Deployments
 
 ### Clinical trial evidence (expanded)
-- **PRECISE** (pivotal trial, CorPath 200): established safety/feasibility and the ~92.5% radiation reduction figure that underpins the platform's core marketing claim.
+- **PRECISE** (registration trial, CorPath 200): established safety/feasibility and the ~92.5% radiation reduction figure that underpins the platform's core marketing claim.
 - **PRECISION and PRECISION GRX** (final pooled results published May 2025, *JSCAI*): multicenter, prospective, single-arm registries spanning **more than 1,700 procedures** total — PRECISION enrolled 2013–2017 (CorPath 200), PRECISION GRX enrolled 2017–2020 (CorPath GRX). Clinical success was defined as <30% residual stenosis and final TIMI-3 flow post-PCI without in-hospital major adverse cardiac events (MACE). The pooled analysis is the largest published real-world dataset comparing first- and second-generation robotic PCI platforms.
 - **CORA-PCI** (Complex Robotically-Assisted PCI, published *JACC: Cardiovascular Interventions*, 2017): tested the GRX system specifically on **complex (B2/C-type) coronary lesions** — 78.3% of the 157 treated lesions were B2/C. Results: **99.1% angiographic success** and **91% technical success** (i.e., completing the case with the robot without manual conversion), with the **primary endpoint achieved in 100% of patients** and no procedural complications. The two leading reasons for manual conversion were inadequate guide-catheter backup support and the inability to advance two devices simultaneously (e.g., for kissing-balloon bifurcation technique) — a real, documented limitation of the robotic workflow.
 - **SAFE-T study**: examined CorPath GRX in chronic total occlusion (CTO) PCI, focused on confirming cath-lab staff radiation exposure is not worse than manual CTO PCI.
 - **CorPath GRX STEMI Study** (NCT04459299): evaluated robotic PCI feasibility in ST-elevation MI (time-critical, emergent PCI), a more demanding use case than elective PCI.
-- Recent (2025) real-world/single-center studies (e.g., "Robotic PCI in Real-World Practice," *JSCAI* 2025) continue to characterize learning curves, procedural complexity, and outcomes as adoption matured outside pivotal-trial settings.
+- Recent (2025) real-world/single-center studies (e.g., "Robotic PCI in Real-World Practice," *JSCAI* 2025) continue to characterize learning curves, procedural complexity, and outcomes as adoption matured outside initial trial settings.
 
 ### FDA clearance timeline
 | Date | Clearance |
@@ -61,12 +61,12 @@ Corindus achieved the **world's first-in-human telerobotic (remote) PCI**, perfo
 CorPath GRX holds **CE Mark approval** and is cleared for neurovascular intervention in Europe, Australia, and New Zealand — ahead of equivalent U.S. clearance. At the time Siemens announced the CorPath GRX Neuro Study results, the company described GRX as poised to become "the world's first and only robotic platform indicated for PCI, PVI, and neurovascular intervention" — a goal that has since been narrowed by Siemens's 2023 strategic pivot (below).
 
 ### Installed base and notable deployments
-Precise, current, company-disclosed installed-base figures were not found in public reporting (Siemens does not break out unit counts for this line). Documented deployments include multiple U.S. academic/tertiary centers that ran the pivotal PRECISE/PRECISION/CORA-PCI trials, plus international sites such as **Can Tho S.I.S General Hospital (Vietnam)**, which implemented CorPath in 2023, and **Apex Heart Institute (Ahmedabad, India)**, site of the 2018 first-in-human telerobotic PCI. Adoption was consistently described industry-wide as slower than initially projected — a fact Siemens itself later cited as the reason for exiting the cardiology segment.
+Precise, current, company-disclosed installed-base figures were not found in public reporting (Siemens does not break out unit counts for this line). Documented deployments include multiple U.S. academic/tertiary centers that ran the PRECISE/PRECISION/CORA-PCI trials, plus international sites such as **Can Tho S.I.S General Hospital (Vietnam)**, which implemented CorPath in 2023, and **Apex Heart Institute (Ahmedabad, India)**, site of the 2018 first-in-human telerobotic PCI. Adoption was consistently described industry-wide as slower than initially projected — a fact Siemens itself later cited as the reason for exiting the cardiology segment.
 
 ## Investors, IPO, and Financial History
 
 ### Pre-acquisition: public company (NYSE American: CVRS)
-Corindus Vascular Robotics was founded in 2002 (Waltham, MA) and went public via IPO in **May 2015**, raising **$42 million** by offering 11 million shares at $3.80/share. Prior to the IPO, the company had raised roughly **$26.6 million** through a September 2014 securities purchase agreement.
+Corindus Vascular Robotics was founded in 2002 (Waltham, MA) and went public via IPO in **May 2015**, raising **$42 million** by offering 11 million shares at $3.80/share. Before the IPO, the company had raised roughly **$26.6 million** through a September 2014 securities purchase agreement.
 
 **Post-IPO shareholder base** included:
 - HealthCor Partners Management (~38%)
